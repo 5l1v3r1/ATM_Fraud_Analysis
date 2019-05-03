@@ -16,10 +16,10 @@
  
 NOT:     ATM theft is a Federal Crime. I'm not responsible 
          for the misuse of the information, if you are
-         able to commit any of the crimes listed then your able to be
+         able to commit any of the crimes listed then your 
          responsible for your own actions. If catching listed
-         methods do not work for you, I'm still not
-         responsible for anything.
+         methods do not work for you, still I'm not
+         responsible for it.
          
                                                      Haroon
                                                     +=======+
