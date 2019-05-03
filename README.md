@@ -32,8 +32,11 @@ NOTE   : ATM theift is a Federal Crime and the Government doesn't like
        
 ---------------------------------------------------------------------------
 
- I. CON JOBS
- 
+
+
+                                 I. CON JOBS
+
+
     What is Con? Persuade (someone) to do or believe something by lying 
     to them. All around the world, ATm con artist exists, let's see how 
     these cons are pulled off.
@@ -66,7 +69,11 @@ verify the card owner. This works really well if you can bullshit them
 good like act like you have to do something and tell them to call you
 right back. 
   
-II. Physical Abuse
+  
+
+                                    II. Physical Abuse
+  
+  
 
 Method 1: SUPER COLD GASES
 ==========================
@@ -137,7 +144,10 @@ typical ATM active tap is one that records a signal, the later plays it
 back over the line.
 
 
-III. Electronic & Computer Scams
+
+
+                                    III. Electronic & Computer Scams
+
 
 METHOD 1: NFC RELAY AND PROXY
 ===============================
@@ -174,6 +184,28 @@ for all purpose.
 
 
 
+
+
+                                    III. Author Note
+
+Catpuring these Fraudsters
+===========================
+
+1. How to capture these frauds, can be tricky, but I found the most common way, is to turn on your Mobile
+Phone's FM Radio Module and try to make a close contact with ATM skimmer, Keyboard/Slot Area. Because of
+the battery used in ATM skimmer, you will hear some different kind of sound via Radio Module.
+
+2. Another method I found, get yourself a pure nickel coin (a silvery-white metal, the chemical element 
+of atomic number 28 in chemistry) and try to rub that near skimmer area that would be Keyboard/Slot Area,
+and turn on Mobile Phone's Radio Module, you will hear crazy sounds or probably more bandwidth (heavy/dark)
+sounds, another possible infacted ATM to avoid.
+
+ Final Words
+ ============
+
+I did my best to teach and make aware of ATM possible fraud, author alone and do not represent the 
+views of the possible fraud and catching metholody, nor take any sort of accpetance, what you do after reading
+this material. 
 
                             Contact mrharoonawan@gmail.com
 
