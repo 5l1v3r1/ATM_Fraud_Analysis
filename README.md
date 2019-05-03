@@ -26,7 +26,7 @@ NOT:     ATM theift is a Federal Crime and the Government doesn't like
           INDEX
           -----
           I. Con Jobs
-         II. Physical Methods
+         II. Physical ATM Abuse
         III. Electronic & Computer Scams
          IV. Physical Frauds
           V. Classic Telephone Hacking
@@ -44,7 +44,9 @@ NOT:     ATM theift is a Federal Crime and the Government doesn't like
     to them. All around the world, ATm con artist exists, let's see how 
     these cons are pulled off.
 
+
 Method 1: THE "DEFECTIVE ATM" CON
+=================================
 
 A con method popular with ATMs netted one, scheme works in 
 lobbies with more than one ATM, and a service phone. The well dressed and
@@ -64,17 +66,18 @@ to "unlock" or "unjam" the ATM and/or to verify that the user's card is
 still vaild. After the users leaves, the con manenters into the keypad
 and withdraws the maximum daily amount from the users account.
 
+
 Method 2. PHONE PIN-EXTRACTION SCAMS
-  Another popular con is for the con man to call up an ATM user whose card
+====================================
+
+Another popular con is for the con man to call up an ATM user whose card
 he's found or stolen. He identifies himself as a police officer, and 
 obtains the PIN from the user by stating that it is required by law to
-verify the card owner. This works really well if you can bullshit them
-good like act like you have to do something and tell them to call you
-right back. 
+verify the card owner.
   
   
 
-                                    II. Physical Abuse
+                                 II. Physical ATM Abuse
   
   
 
