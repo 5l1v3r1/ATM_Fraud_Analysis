@@ -14,11 +14,12 @@
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-==-=-=-=-=-=-=-=-=-===--=-=-=-=-=-=
  
-NOT:     ATM theift is a Federal Crime and the Government doesn't like
-         there funds fucked with. The author does not, DOES NOT bare 
-         responsiblity for the misuse of the information, if you are
+NOT:     ATM theft is a Federal Crime. I'm not responsible 
+         for the misuse of the information, if you are
          able to commit any of the crimes listed then your able to be
-         responsible for your own actions. 
+         responsible for your own actions. If catching listed
+         methods do not work for you, I'm still not
+         responsible for anything.
          
                                                      Haroon
                                                     +=======+
@@ -257,13 +258,5 @@ nickel against close contact battery of skimmer, another possible infacted ATM t
  Final Words
  ============
 
-I did my best to teach and make aware of ATM possible fraud, author alone and do not represent the 
-views of the possible fraud and catching metholody, nor take any sort of accpetance, what you do after reading
-this material. 
-
-
-Contact
-=======
-
-Contact mrharoonawan@gmail.com
+I did my best to teach and make aware of possible ATM frauds. Contact mrharoonawan@gmail.com
 
