@@ -158,6 +158,20 @@ Most of the time, the attackers will also place a hidden camera somewhere in the
 vicinity in order to record personal identification numbers, or PINs, used to access accounts.
 That's the skimmer.
 
+METHOD 2: AUDIO SKIMMER
+========================
+
+                        Analog ATM skimmer attached with Audio to capture credit and debit card data, 
+an increasingly popular credit card reader built for the iPhone, works by plugging into the headphone 
+jack on the iPhone and converting credit card data stored on the card into audio files.
+
+
+METHOD 3: 3D Printers
+======================
+
+                       Fraudsters using 3D-Printer technology to build themselve low cost ATM skimmers, 
+for all purpose.
+
 
 
 
