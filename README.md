@@ -30,7 +30,8 @@ NOT:     ATM theift is a Federal Crime and the Government doesn't like
         III. Electronic & Computer Scams
          IV. Physical Frauds
           V. Classic Telephone Hacking
-         VI. Authors Note
+          VI. Identify and Capture Frauds
+         VII. Author Contact
        
 ---------------------------------------------------------------------------
 
@@ -221,7 +222,7 @@ War Dailer's use Modem Ping Back, it is ping to confirm if remote machine is act
 
 
 
-                                           VI. Identify and Capture Frauds
+                                      VI. Identify and Capture Frauds
 
 
 
@@ -241,6 +242,15 @@ I found, get yourself a pure nickel coin (a silvery-white metal, the chemical el
 of atomic number 28 in chemistry) and try to rub that near possible skimmer area, 
 turn on your Mobile Phone's Radio Module, you will hear different sounds when you rub
 nickel against close contact battery of skimmer, another possible infacted ATM to avoid.
+
+
+
+
+
+                                            VII. Author Contact
+
+
+
 
  Final Words
  ============
